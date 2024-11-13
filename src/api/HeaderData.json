@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "path": "/",
+    "title": "getir"
+  },
+  {
+    "id": 2,
+    "path": "/yemek",
+    "title": {
+      "first": "getir",
+      "second": "yemek"
+    }
+  },
+  {
+    "id": 3,
+    "path": "/büyük",
+    "title": {
+      "first": "getir",
+      "second": "büyük"
+    }
+  },
+  {
+    "id": 4,
+    "path": "/su",
+    "title": {
+      "first": "getir",
+      "second": "su"
+    }
+  },
+  {
+    "id": 5,
+    "path": "/çarşı",
+    "title": {
+      "first": "getir",
+      "second": "çarşı"
+    }
+  }
+]
